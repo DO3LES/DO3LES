@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @do3les
-- 👀 I’m interested in programming, D&D, and amateur radio.
+- 👀 I’m interested in programming, D&D, and amateur radio (callsign DO3LES).
 - 🌱 I’m currently learning the Godot engine, C++, and the guitar.
 - 📫 How to reach me: @inductor:tchncs.de (Matrix)
 
