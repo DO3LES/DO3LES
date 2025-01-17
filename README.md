@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning the Godot engine, C++, and the guitar.
 - 📫 How to reach me: @inductor:tchncs.de (Matrix)
 
+I have moved to selfhosting a forgejo instance, my newer projects are not on GitHub.
+
 <!---
 do3les/do3les is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
